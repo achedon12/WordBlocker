@@ -1,0 +1,5 @@
+name: wordblocker
+author: Achedon
+api: 4.0.0
+main: achedon\wordBlocker\word
+version: 1.0.0
