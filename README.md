@@ -7,6 +7,13 @@
 [ENG] Simple configurable plugin to prevent vulgar words
 
 -----------------
+## Configuration
+
+[FR] Pour ajouter des mots, ouvrez le fichier dans le fichier badwords.txt et ajoutez vos mots
+
+[ENG] To add words, open the file in badwords.txt and add your words
+
+-----------------
 
 ## Credit
 
