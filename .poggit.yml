@@ -5,5 +5,5 @@ branches:
 projects:
   WordBlocker:
     path: ""
-    icon: "icon.jpg"
+    icon: "icon.png"
 ...

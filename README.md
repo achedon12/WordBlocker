@@ -1,6 +1,6 @@
 # About
 
-![WordBlocker](icon.jpg)
+![WordBlocker](icon.png)
 
 [FR] Simple plugin configurable permettant d'empecher des mots vulgaires
 
